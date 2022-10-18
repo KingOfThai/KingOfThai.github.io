@@ -11,17 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to our restaurant!
+    text: Ready for some Spice?
+    button: Order Now
+    buttonlink: "https://www.doordash.com/store/king-of-thai-fremont-24203127"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "With Quality"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Dining-In"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
