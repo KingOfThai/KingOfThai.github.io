@@ -22,56 +22,56 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Dining-In"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+        desc: "Modern and club vibe interior design with Thai cuisine will leave you with satisfaction."
+        icon: fas fa-utensils #find more at https://fontawesome.com/icons
+      - title: "[Togo](https://www.doordash.com/store/king-of-thai-fremont-24203127/)"
+        desc: "We deliver through Doordash for now. Grab promotions as we are always giving free deliveries and some discounts on it."
+        icon: fas fa-cup-togo
+      - title: "Catering"
+        desc: "Please email padthaiboy.fremont@gmail.com with details of your catering and get upto 20% off of your entire order."
+        icon: fab fa-envelope
+        
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Best Sellers"
+    text: "Customers' most favorites."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Since 1994"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "First Thai in SF and also in Bayarea"
+        year: "March 1994"
+        desc: "One of the first Thai immigrants to SF and few other pioneers started out a small restaurant in downtown SF with authentic Thai recipes with research and improvement to cater to American taste."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "King of Thai Noodles House Franchise boom"
+        year: "April 2000"
+        desc: "Our business model and most importantly food itself spread out its quality and taste fast by this time and expanded to nearly 20 locations in the SF bay area."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Owner Retirement and Management Division"
+        year: "August 2017"
+        desc: "Owner and the CEO wish to spend the rest of their lives in their homeland, Thailand. Management cleared out most locations and three authentic King of Thai locations remained with the same recipe and people."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Beginning of King of Thai - Fremont"
+        year: "October 2018"
+        desc: "Started a new beginning of King of Thai in the easy bay here in Fremont. We share the same authenticity (Recipe, Cooks, and Business Model) still with the locations in SF, San Mateo, and Alameda."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Come enjoy <br> of Our <br> Savory Thai!"
 
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Since 1994, With 28 years of experience in Thai cooking under their belts, our chefs are bringing their best serving up fish cakes, satay, and noodle soups. Our local customers love that we serve genuine Thai dishes you can't find in Americanized Thai restaurants. We value authenticity and freshness in every dish we make, which is why we also use local, seasonal ingredients. Planning a large event? Our tasteful and intimate dining space is perfect for large parties, and we also offer catering services. Come find out why we call ourselves The King of Thai. At King of Thai Noodle House, we offer an extensive selection of traditional Thai dishes, including several Vegetarian options. Try the pan-fried noodles; they are truly a specialty."
     section: about
 
   clients:
@@ -79,27 +79,27 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Fremont"
+        url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
         logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Newark"
+        url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
         logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Warm Springs"
+        url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
         logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "Union City"
+        url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "Our Ingredidents / Imports Sources"
+    text: "Fresh and Authentic"
+    subtext: All of our ingredients that are packaged come overseas from Thailand and groceries locally to keep the freshness.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Pantai"
+        role: "Company located in Thailand since 1962"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -108,8 +108,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Dragon Fly"
+        role: "Made by the Kwong Hung Seng company Thailand"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,8 +118,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Mae ploy"
+        role: "Company located in Bangkok, Thailand since 2009"
         image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
@@ -131,7 +131,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "We will reach back in 24 hours"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
