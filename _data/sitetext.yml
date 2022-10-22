@@ -147,15 +147,15 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
+        icon: "fab fa-moped"
+      - url: https://www.ubereats.com/store/king-of-thai-fremont/NtToAErUSwiijqKwBBpdCA
+        icon: "fab fa-uber"
+      - url: https://www.yelp.com/biz/king-of-thai-noodles-house-fremont-5
+        icon: "fab fa-yelp"
+      - url: https://www.facebook.com/kot.fremont/
+        icon: "fab fa-facebook"
+      - url: https://www.instagram.com/kot.fremont/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
