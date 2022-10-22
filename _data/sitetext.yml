@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Come enjoy <br> of Our <br> Savory Thai!"
+    end: "Come and join <br> our journey of <br> Savory Thai Food!"
 
   about:
     title: "About Us"
@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Pantai"
         role: "Company located in Thailand since 1962"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Dragon Fly"
         role: "Made by the Kwong Hung Seng company Thailand"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/DragonFly.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Mae ploy"
         role: "Company located in Bangkok, Thailand since 2009"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
