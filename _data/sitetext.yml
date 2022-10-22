@@ -35,7 +35,7 @@ en: &DEFAULT_EN
     title: "Best Sellers"
     text: "Customers' most favorites."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
 
   timeline:
     title: "Timeline"
