@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Dining-In"
         desc: "Modern and club vibe interior design with Thai cuisine will leave you with satisfaction."
-        icon: fas fa-utensils #find more at https://fontawesome.com/icons
+        icon: fas fa-solid fa-utensils #find more at https://fontawesome.com/icons
       - title: "Togo"
         desc: "We deliver through Doordash for now. Grab promotions as we are always giving free deliveries and some discounts on it."
-        icon: fas fa-moped
+        icon: fas fa-solid fa-truck
       - title: "Catering"
         desc: "Please email padthaiboy.fremont@gmail.com with details of your catering and get upto 20% off of your entire order."
-        icon: fas fa-bowl-rice
+        icon: fas fa-solid fa-bowl-rice
         
   portfolio:
     title: "Best Sellers"
@@ -148,15 +148,15 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
-        icon: "fab fa-solid fa-moped"
+        icon: "fab fa-solid fa-truck"
       - url: https://www.ubereats.com/store/king-of-thai-fremont/NtToAErUSwiijqKwBBpdCA
-        icon: "fab fa-uber"
+        icon: "fab fa-solid fa-uber"
       - url: https://www.yelp.com/biz/king-of-thai-noodles-house-fremont-5
-        icon: "fab fa-yelp"
+        icon: "fab fa-solid fa-yelp"
       - url: https://www.facebook.com/kot.fremont/
-        icon: "fab fa-facebook"
+        icon: "fab fa-solid fa-facebook"
       - url: https://www.instagram.com/kot.fremont/
-        icon: "fab fa-instagram"
+        icon: "fab fa-solid fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
