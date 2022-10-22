@@ -81,16 +81,16 @@ en: &DEFAULT_EN
     list:
       - title: "Fremont"
         url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/creative-market.jpg
       - title: "Newark"
         url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
-        logo: assets/img/clients/designmodo.jpg
+        logo: assets/img/clients/designmodo.png
       - title: "Milpitas"
         url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
-        logo: assets/img/clients/themeforest.jpg
+        logo: assets/img/clients/envato.png
       - title: "Union City"
         url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/themeforest.png
 
   team:
     title: "Our Ingredidents / Imports Sources"
