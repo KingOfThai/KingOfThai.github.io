@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: "First Thai in SF and also in Bayarea"
         year: "March 1994"
         desc: "One of the first Thai immigrants to SF and few other pioneers started out a small restaurant in downtown SF with authentic Thai recipes with research and improvement to cater to American taste."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/1.png
         alt:
       - title: "King of Thai Noodles House Franchise boom"
         year: "April 2000"
@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       - title: "Beginning of King of Thai - Fremont"
         year: "October 2018"
         desc: "Started a new beginning of King of Thai in the easy bay here in Fremont. We share the same authenticity (Recipe, Cooks, and Business Model) still with the locations in SF, San Mateo, and Alameda."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/4.png
         alt:
         # you can enforce the alignment
         align: right
