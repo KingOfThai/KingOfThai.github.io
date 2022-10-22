@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-moped
       - title: "Catering"
         desc: "Please email padthaiboy.fremont@gmail.com with details of your catering and get upto 20% off of your entire order."
-        icon: fab fa-bowl-rice
+        icon: fas fa-bowl-rice
         
   portfolio:
     title: "Best Sellers"
