@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-utensils #find more at https://fontawesome.com/icons
       - title: "[Togo](https://www.doordash.com/store/king-of-thai-fremont-24203127/)"
         desc: "We deliver through Doordash for now. Grab promotions as we are always giving free deliveries and some discounts on it."
-        icon: fas fa-solid fa-cup-togo
+        icon: fas fa-moped
       - title: "Catering"
         desc: "Please email padthaiboy.fremont@gmail.com with details of your catering and get upto 20% off of your entire order."
-        icon: fab fa-solid fa-envelope
+        icon: fab fa-bowl-rice
         
   portfolio:
     title: "Best Sellers"
