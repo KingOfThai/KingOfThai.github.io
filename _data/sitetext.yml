@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-solid fa-truck
       - title: "Catering"
         desc: "Please email padthaiboy.fremont@gmail.com with details of your catering and get upto 20% off of your entire order."
-        icon: fab fa-solid fa-bowl-food
+        icon: fas fa-solid fa-users
         
   portfolio:
     title: "Best Sellers"
