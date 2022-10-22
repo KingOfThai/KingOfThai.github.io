@@ -148,7 +148,7 @@ en: &DEFAULT_EN
     legal: "Privacy Policy"
     social:
       - url: https://www.doordash.com/store/king-of-thai-fremont-24203127/
-        icon: "fab fa-solid fa-truck"
+        icon: "fas fa-solid fa-truck"
       - url: https://www.ubereats.com/store/king-of-thai-fremont/NtToAErUSwiijqKwBBpdCA
         icon: "fab fa-solid fa-uber"
       - url: https://www.yelp.com/biz/king-of-thai-noodles-house-fremont-5
