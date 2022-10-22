@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Pad Thai
+subtitle: That Pad Thai everyone knows about.
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Pad Thai
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Pad Thai
+  subtitle: #1
+  thumbnail: assets/img/portfolio/01-thumbnail.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Stir-fried thin rice noodle, shrimp, dry shrimp, egg, ground peanut, tofu and bean sprout with red paprika powder and lime juice. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
-
+- Pad Thai
+- Spice level can be adjusted
+- Protein Choices are avaialbe with Vegetarian as well.
