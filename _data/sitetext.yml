@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our restaurant!
-    text: Ready for some Spice?
+    title: Welcome to King of Thai!
+    text: First & Best Thai
     button: Order Now
     buttonlink: "https://www.doordash.com/store/king-of-thai-fremont-24203127"
 
@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       - title: "Dining-In"
         desc: "Modern and club vibe interior design with Thai cuisine will leave you with satisfaction."
         icon: fas fa-utensils #find more at https://fontawesome.com/icons
-      - title: "[Togo](https://www.doordash.com/store/king-of-thai-fremont-24203127/)"
+      - title: "Togo"
         desc: "We deliver through Doordash for now. Grab promotions as we are always giving free deliveries and some discounts on it."
         icon: fas fa-moped
       - title: "Catering"
@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: "First Thai in SF and also in Bayarea"
         year: "March 1994"
         desc: "One of the first Thai immigrants to SF and few other pioneers started out a small restaurant in downtown SF with authentic Thai recipes with research and improvement to cater to American taste."
-        image: assets/img/timeline/11.png
+        image: assets/img/timeline/11.jpg
         alt:
       - title: "King of Thai Noodles House Franchise boom"
         year: "April 2000"
