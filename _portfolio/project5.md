@@ -1,18 +1,12 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Larb
+subtitle: Most popular Salad and Appetizer.
 image: assets/img/portfolio/05-full.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Larb
+  subtitle: 
+  thumbnail: assets/img/portfolio/05-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
-
+Your choice of ground chicken, ground pork or ground beef cooked with red or green onions, mint leaves, ground roasted rice, chili, lime dressing served with sliced cabbage.
