@@ -130,20 +130,20 @@ en: &DEFAULT_EN
           #  icon: fab fa-linkedin-in
           
 
-#  contact:
-#    title: "Contact Us"
-#    text: "We will reach back in 24 hours"
-#    section: contact
-#    name: "Name*"
-#    name-validation: "Please enter your name."
-#    email: "Email*"
-#    email-validation: "Please enter your email address."
-#    phone: "Phone Number"
-#    phone-validation: "Please enter your phone number."
-#    message: "Message*"
-#    message-validation: "Please enter a message."
-#    subject: "Contact Form Submission"
-#    submit: "Send Message"
+  contact:
+    title: "Contact Us"
+    text: "We will reach back in 24 hours"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+   phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
 
 
   footer:
