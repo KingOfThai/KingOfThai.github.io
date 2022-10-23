@@ -10,8 +10,3 @@ caption:
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
 Stir-fried flat rice noodle and your choice of meat with egg, green bean, bell pepper, Thai chili and basil.
-
-{:.list-inline}
-Pad Kee Mao
-Spice level can be adjusted
-Protein Choices are avaialbe with Vegetarian as well.
